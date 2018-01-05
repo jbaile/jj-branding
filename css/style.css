@@ -1637,7 +1637,7 @@ body {
 		text-align:center;
 		width:100%;
 	}
-	
+
 	#main-flexslider ul.slides li p {
 	font-size: 72px;
 }
@@ -1647,7 +1647,7 @@ body {
 @media (min-width: 980px) {
 #main-flexslider ul.slides li p {
 	font-size: 60px;
-}	
+}
 }
 
 @media (max-width: 767px) {
@@ -1698,7 +1698,7 @@ h2 {
 		padding-bottom: 10px;
 		padding-left: 0px;
 	}
-	
+
 .img-circle {
 	width: 65%;
 	height: 65%;
@@ -1741,7 +1741,7 @@ h2 {
 		 display: inline-block;
 		 text-align:center;
 	}
-	
+
 	.img-circle {
 	width: 50%;
 	height: 50%;
@@ -1750,9 +1750,9 @@ h2 {
 	#portfolio-wrap .grid {
 		width: 50%;
 	}
-	
+
 	#main-flexslider ul.slides li p {
-	font-size: 55px;
+	font-size: 60px;
 	line-height: 1.3em;
 }
 
